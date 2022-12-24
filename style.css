@@ -125,6 +125,8 @@ nav a.active {
 }
 #slide-6 {
     background-color: #68d774;
+    width: 60%;
+    margin: 10px auto 0;
 }
 #slide-7 {
     background-color: #FFFFFF;
