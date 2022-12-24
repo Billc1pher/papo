@@ -91,7 +91,7 @@ nav a.active {
 
 .slide .centered {
     width: 60%;
-    margin: 200px auto 0;
+    margin: 100px auto 0;
 }
 
 .slide .centered h1 {
@@ -125,8 +125,6 @@ nav a.active {
 }
 #slide-6 {
     background-color: #68d774;
-    width: 60%;
-    margin: 100px auto 0;
 }
 #slide-7 {
     background-color: #FFFFFF;
